@@ -1,3 +1,6 @@
+# Hi there, I'm MD RAJA KHAN 👋
+Welcome to my GitHub profile! I am an aspiring web developer passionate about building clean, responsive, and user-friendly websites.
+
 # Smart Emergency SOS System 🚨
 
 A real-time emergency response web application built using the MERN stack that enables users to send instant SOS alerts with live GPS location tracking and Google Maps integration for rapid emergency communication.
